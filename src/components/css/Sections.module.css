@@ -1,0 +1,21 @@
+/* .grid {
+  width: 100%;
+} */
+
+.heroSection {
+  height: 60vh;
+  margin: 50px auto;
+}
+
+.sections {
+  margin: 50px auto;
+  height: 100%;
+}
+
+.featured {
+  height: 50vh;
+}
+
+.featuredSection {
+  height: 100%;
+}
